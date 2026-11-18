@@ -1,4 +1,4 @@
-== U5 Akses, laporan, dan Docker | 2026-11-10 02:31:25 | mhadziq
+== U5 Akses, laporan, dan Docker | 2026-11-10 02:31:25 | andika
 
 -- Pembatasan akses
 $ sudo -u tamu1 /opt/job-queue/scripts/submit.sh job_ringan 1
