@@ -1,4 +1,4 @@
-== U3 Status dan exit status | 2026-11-10 02:31:11 | mhadziq
+== U3 Status dan exit status | 2026-11-10 02:31:11 | Radhitya Fadlurrahman
 
 $ sudo -u pengguna1 /opt/job-queue/scripts/submit.sh job_ringan 1
 Job diterima: 20261110023111435673564_job_ringan (parameter 1)
