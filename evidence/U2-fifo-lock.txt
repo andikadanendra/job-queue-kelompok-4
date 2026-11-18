@@ -1,4 +1,4 @@
-== U2 Antrean FIFO dan lock worker | 2026-11-10 02:31:05 | mhadziq
+== U2 Antrean FIFO dan lock worker | 2026-11-10 02:31:05 | arvinmaulana
 
 -- Positif
 $ sudo -u pengguna1 /opt/job-queue/scripts/submit.sh job_ringan 1
