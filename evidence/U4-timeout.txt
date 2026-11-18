@@ -1,4 +1,4 @@
-== U4 Timeout dan penghentian | 2026-11-10 02:31:12 | mhadziq
+== U4 Timeout dan penghentian | 2026-11-10 02:31:12 | erlang
 
 $ sudo -u pengguna1 /opt/job-queue/scripts/submit.sh job_lama 3
 Job diterima: 20261110023112308660017_job_lama (parameter 3)
